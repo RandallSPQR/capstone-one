@@ -9,14 +9,14 @@ The primary clients will include most consumer facing ecommerce companies, but c
 Data is daily media spends, reach, frequency, impressions, clicks, engagements, creative type, device, destination/landing page, and purchase conversion value from Facebook/Instagram Business Manager, Google Ad Manager, Criteo, and Shopify. This data is sourced from several of my existing clients. 
 
 # Approach
-genetic optimization algorithm 
-Each campaign is structured into a phenotype/chromosome nodes
-Weighting of First Touch, Contributing, and Last Touch points
-Definition of Fitness - Maximize ROI, Maximize New Customer Growth
+ genetic optimization algorithm 
+ Each campaign is structured into a phenotype/chromosome nodes
+ Weighting of First Touch, Contributing, and Last Touch points
+ Definition of Fitness - Maximize ROI, Maximize New Customer Growth
 
-Alternative 
-Simulated annealing
-Decision Tree 
+ Alternative 
+ Simulated annealing
+ Decision Tree 
 
 # Deliverables
 Jupyter/IPython Notebook containing code
