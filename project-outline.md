@@ -9,7 +9,7 @@ The primary clients will include most consumer facing ecommerce companies, but c
 Data is daily media spends, reach, frequency, impressions, clicks, engagements, creative type, device, destination/landing page, and purchase conversion value from Facebook/Instagram Business Manager, Google Ad Manager, Criteo, and Shopify. This data is sourced from several of my existing clients. 
 
 # Approach
-genetic optimization algorithm  
+Genetic Optimization Algorithm  
  Each campaign is structured into a phenotype/chromosome nodes
  
  Weighting of First Touch, Contributing, and Last Touch points
@@ -24,6 +24,9 @@ Alternatives -
 
 # Deliverables
 Jupyter/IPython Notebook containing code
+
 Original Media Plan & Projection
+
 Optimized Media Plan & Projection
+
 Slide deck outlining project, solutions, and brand comparisons. 
