@@ -3,7 +3,7 @@ Nearly all small to mid-sized ecommerce clients use some combination of Facebook
 
 
 # Client and Solution Impact
-The primary clients will include most consumer facing ecommerce companies, but can also include B2B businesses. The decision made is the optimal allocation of media dollars among channels, audiences, tactics, timing, frequency, and creative options. Furthermore, the share of media attribution should be apparent, weighting first interaction, contributing, and final interaction differently. 
+The primary clients will include most consumer facing ecommerce companies, but can also include B2B businesses. The solution is the creation of a media attribution model. The decision made is the optimal allocation of media dollars among channels, audiences, tactics, timing, frequency, and creative options. Furthermore, the share of media attribution should be apparent, weighting first interaction, contributing, and final interaction differently. 
 
 # Data
 Data is daily media spends, reach, frequency, impressions, clicks, engagements, creative type, device, destination/landing page, and purchase conversion value from Facebook/Instagram Business Manager, Google Ad Manager, Criteo, and Shopify. This data is sourced from several of my existing clients. 
@@ -25,8 +25,12 @@ Alternatives -
 # Deliverables
 Jupyter/IPython Notebook containing code
 
+Report - 
+Presentation of Problem
+Steps taken to clean and import data
 Original Media Plan & Projection
-
+Model Selection Criteria
 Optimized Media Plan & Projection
+Expected outcomes
 
 Slide deck outlining project, solutions, and brand comparisons. 
