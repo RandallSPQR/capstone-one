@@ -26,11 +26,17 @@ Alternatives -
 Jupyter/IPython Notebook containing code
 
 Report - 
+
 Presentation of Problem
+
 Steps taken to clean and import data
+
 Original Media Plan & Projection
+
 Model Selection Criteria
+
 Optimized Media Plan & Projection
+
 Expected outcomes
 
 Slide deck outlining project, solutions, and brand comparisons. 
