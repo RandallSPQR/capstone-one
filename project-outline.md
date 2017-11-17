@@ -25,18 +25,19 @@ Alternatives -
 # Deliverables
 Jupyter/IPython Notebook containing code
 
+Slide deck outlining project, solutions, and brand comparisons. 
+
 Report - 
 
-Presentation of Problem
+1. Presentation of Problem
 
-Steps taken to clean and import data
+2. Steps taken to clean and import data
 
-Original Media Plan & Projection
+3. Original Media Plan & Projection
 
-Model Selection Criteria
+4. Model Selection Criteria
 
-Optimized Media Plan & Projection
+5. Optimized Media Plan & Projection
 
-Expected outcomes
+6. Expected outcomes
 
-Slide deck outlining project, solutions, and brand comparisons. 
